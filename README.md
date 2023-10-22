@@ -1,2 +1,2 @@
 # Strona Ogloszeniowa
- Strona ogloszeniowa
+ Strona ogloszeniowa zrobiona przy użyciu HTML css PHP SQL.
